@@ -22,7 +22,7 @@ I am a software developer in the exciting world of Python. My expertise lies in 
 ![Mahsan's Viewers](https://komarev.com/ghpvc/?username=MahsanGilani&color=ff69b4&style=flat&base=100)
 
 </div>
-<hr>
+<br>
 
 <h2 align="center">🛠 Skills</h2>
 <div align="center">
@@ -43,7 +43,7 @@ I am a software developer in the exciting world of Python. My expertise lies in 
 </div>
 
 <br>
-<hr>
+<br>
 <h2 align="center">Github Status</h2>
 <div align="center">
 
