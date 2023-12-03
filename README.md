@@ -2,7 +2,6 @@
 <br>
 <h3 align="center">✨About Me✨</h3>
 <br>
-<br>
 <p align="center">
 I am a software developer in the exciting world of Python. My expertise lies in Django and RestAPIs, where I love bringing ideas to life through elegant and efficient solutions.💻Those who work with me often describe me as responsible and dedicated, especially in challenging projects. When the going gets tough and the whole team is under pressure, I rise to the occasion with a focused and committed mindset. I am an avid learner, always seeking to expand my knowledge and stay up-to-date with the latest advancements in technology. My paramount goal is continuous improvement, both professionally and personally. Over the past 5 years, I have taken significant steps towards nurturing my professional skills and enhancing my character.😎</p>
 
