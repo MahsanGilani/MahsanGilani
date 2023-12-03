@@ -1,5 +1,4 @@
 <h1 align="center">Hi👋, I'm Mahsan Gilani</h1>
-<br>
 <h3 align="center">✨About Me✨</h3>
 <br>
 <p align="center">
