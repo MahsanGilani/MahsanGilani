@@ -46,10 +46,9 @@ I am a software developer in the exciting world of Python. My expertise lies in 
 <h2 align="center">Github Status</h2>
 <div align="center">
 
-![Mahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahsanGilani&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahsanGilani&hide_progress=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MahsanGilani&theme=default)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=MahsanGilani&show_icons=true&theme=synthwave" alt="Mahsan's GitHub stats"></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahsanGilani&hide_progress=true" alt="Top Langs"></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=MahsanGilani&theme=default" alt="GitHub Streak"></p>
 
 <picture align="Center">
         <img align="Center" width="" height="300px" src="dino.gif">
