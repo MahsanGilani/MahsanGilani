@@ -48,7 +48,7 @@ I am a software developer in the exciting world of Python. My expertise lies in 
 
   <a href="https://github.com/MahsanGilani" align="left"><img src="https://github-readme-stats.vercel.app/api?username=MahsanGilani&show_icons=true&theme=synthwave" alt="MahsanGilani's GitHub stats" /></a>
   
-  <a href="http://www.github.com/MahsanGilani"><img src="https://github-readme-stats.vercel.app/api?username=MahsanGilani&show_icons=true&theme=synthwave" alt="Top Languages" /></a>
+  <a href="http://www.github.com/MahsanGilani"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahsanGilani&hide_progress=true" alt="Top Languages" /></a>
   
   <a href="http://www.github.com/MahsanGilani"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MahsanGilani&theme=default" alt="GitHub Streak"/></a>
 
